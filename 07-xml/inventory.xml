@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+    <storeName>zabka</storeName>
+    <isActive>true</isActive>
+    <lastUpdated>'SO-8601'</lastUpdated>
+    <products>
+        <product>
+            <id></id>
+            <name></name>
+            <price></price>
+            <tags></tags>
+            <specs>
+                <manufacturer></manufacturer>
+                <warrantyMonths></warrantyMonths>
+            </specs>
+        </product>
+        <product>
+            <id></id>
+            <name></name>
+            <price></price>
+            <tags></tags>
+            <specs>
+                <manufacturer></manufacturer>
+                <warrantyMonths></warrantyMonths>
+            </specs>
+        </product>  
+        <product>
+            <id></id>
+            <name></name>
+            <price></price>
+            <tags></tags>
+            <specs>
+                <manufacturer></manufacturer>
+                <warrantyMonths></warrantyMonths>
+            </specs>
+        </product>    
+    </products>
+</inventory>
