@@ -1,0 +1,36 @@
+{
+    "storeName" : "zabka",
+    "isActive" : true,
+    "lastUpdated" : "2026-09-08T10:00:00Z",
+    "products" : [
+        {
+            "id" : 1,
+            "name" : "hot-dog",
+            "price" : 4.99,
+            "tags" : ["food", "warm-food"],
+            "specs" : {
+                "manufacturer" : "zabka",
+                "warrantyMonths" : 1
+            }
+        },
+        {
+            "id" : 2,
+            "name" : "panini",
+            "price" : 8.99,
+            "tags" : ["food", "warm-food"],
+            "specs" : {
+                "manufacturer" : "zabka",
+                "warrantyMonths" : 2
+            }
+        },        {
+            "id" : 3,
+            "name" : "kawa",
+            "price" : 9.99,
+            "tags" : ["drink", "warm-drink"],
+            "specs" : {
+                "manufacturer" : "jacobs",
+                "warrantyMonths" : 3
+            }
+        }        
+    ]
+}
