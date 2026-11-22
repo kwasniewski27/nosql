@@ -2,13 +2,16 @@
 <inventory>
     <storeName>zabka</storeName>
     <isActive>true</isActive>
-    <lastUpdated>'SO-8601'</lastUpdated>
+    <lastUpdated>'ISO-8601'</lastUpdated>
     <products>
         <product>
             <id></id>
             <name></name>
             <price></price>
-            <tags></tags>
+            <tags>
+            <tag></tag>
+            <tag></tag>
+            </tags>
             <specs>
                 <manufacturer></manufacturer>
                 <warrantyMonths></warrantyMonths>
@@ -18,7 +21,10 @@
             <id></id>
             <name></name>
             <price></price>
-            <tags></tags>
+            <tags>
+            <tag></tag>
+            <tag></tag>
+            </tags>
             <specs>
                 <manufacturer></manufacturer>
                 <warrantyMonths></warrantyMonths>
@@ -28,7 +34,10 @@
             <id></id>
             <name></name>
             <price></price>
-            <tags></tags>
+            <tags>
+            <tag></tag>
+            <tag></tag>
+            </tags>
             <specs>
                 <manufacturer></manufacturer>
                 <warrantyMonths></warrantyMonths>

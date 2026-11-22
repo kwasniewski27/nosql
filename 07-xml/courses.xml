@@ -9,8 +9,18 @@
       <email></email>
     </instructor>
     <enrolledStudents>
+    <student>
       <studentId></studentId>
       <finalGrade></finalGrade>
+    </student>
+    <student>
+      <studentId></studentId>
+      <finalGrade></finalGrade>
+    </student>
+    <student>
+      <studentId></studentId>
+      <finalGrade></finalGrade>
+    </student>    
     </enrolledStudents>
   </course>
   <course code="CS102">
